@@ -1,4 +1,4 @@
-# Training NTK with KARE
+# Training NTK to Generalize with KARE
 
 # Setup programming environment
 
