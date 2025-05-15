@@ -110,7 +110,7 @@ export PYTHONPATH= #Export your python path
 cd path/to/ntk-kare
 
 # Run Python script
-python -u scripts/training/networks/train_UCI.py \
+python -u scripts/training/train_UCI.py \
     -dir "${DATA_DIR}"\
     -dataset "${DATASET_NAME}"\
     -lr_index "${LR_IDX}"\
